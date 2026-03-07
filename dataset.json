@@ -1,0 +1,56 @@
+[
+  {
+    "name": "General Writing",
+    "prompts": [
+      "Write a persuasive sales letter",
+      "Summarize a long article in just 150 words",
+      "Generate creative product descriptions for a store",
+      "Create engaging social media captions"
+    ]
+  },
+  {
+    "name": "Business & Finance",
+    "prompts": [
+      "Draft an investment proposal",
+      "Write a professional email to clients",
+      "Craft a company-wide memo",
+      "Prepare an executive summary of your business plan"
+    ]
+  },
+  {
+    "name": "Education & Research",
+    "prompts": [
+      "Summarize a scholarly research paper",
+      "Create an engaging lesson plan",
+      "Write a comprehensive report on the topic",
+      "Develop multiple-choice questions for a quiz"
+    ]
+  },
+  {
+    "name": "Entertainment & Creativity",
+    "prompts": [
+      "Generate an attention-grabbing headline",
+      "Craft creative character descriptions",
+      "Write captivating story beginnings",
+      "Create engaging dialogue between characters"
+    ]
+  },
+  {
+    "name": "Productivity & Time Management",
+    "prompts": [
+      "Create a daily to-do list with priority tasks",
+      "Design an efficient work schedule",
+      "Set personal and professional goals for the year",
+      "Brainstorm ideas for solving common problems at work"
+    ]
+  },
+  {
+    "name": "Personal Development & Relationships",
+    "prompts": [
+      "Write a heartfelt letter to a loved one",
+      "Craft a persuasive argument in a debate",
+      "Develop self-reflection questions for personal growth",
+      "Create engaging blog posts on interpersonal skills"
+    ]
+  }
+]
