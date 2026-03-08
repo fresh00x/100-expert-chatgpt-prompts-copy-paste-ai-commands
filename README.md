@@ -1,4 +1,4 @@
-# 100 Expert ChatGPT Prompts: Copy-Paste AI Commands That Actually Work
+# 100-expert-chatgpt-prompts:-copy-paste-ai-commands-that-actu
 
 Unlock your full potential as an AI power user with our must-have collection of 100 expert ChatGPT prompts. Tailored for maximum efficiency, these battle-tested prompts will help you conquer any writi
 
@@ -6,7 +6,7 @@ Unlock your full potential as an AI power user with our must-have collection of 
 
 | Property | Value |
 |---|---|
-| Records | 6 |
+| Records | 3 |
 | Format | JSON |
 | License | CC BY 4.0 |
 | Updated | See commits |
@@ -14,15 +14,7 @@ Unlock your full potential as an AI power user with our must-have collection of 
 ## Sample
 
 ```json
-{
-  "name": "General Writing",
-  "prompts": [
-    "Write a persuasive sales letter",
-    "Summarize a long article in just 150 words",
-    "Generate creative product descriptions for a store",
-    "Create engaging social media captions"
-  ]
-}
+Keys: title, description, price
 ```
 
 ## Usage
