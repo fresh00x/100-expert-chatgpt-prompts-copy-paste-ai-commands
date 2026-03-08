@@ -1,5 +1,56 @@
-{
-  "title": "100 Expert ChatGPT Prompts: Copy-Paste AI Commands That Actually Work",
-  "description": "Unlock your full potential as an AI power user with our must-have collection of 100 expert ChatGPT prompts. Tailored for maximum efficiency, these battle-tested prompts will help you conquer any writing task with ease.\n\nElevate your content creation to new heights by leveraging these tried-and-true AI commands that get results. From single-shot boosters to chain-of-thought starters and role-based prompts, our pack has everything you need to become a ChatGPT superstar!\n\nBut that's not all - we've included 20 'wow' level prompts that are so impressive, people will screenshot and share them with their friends. Plus, our Pro Tips section offers valuable insights on how to combine these prompts for maximum impact.\n\nGet ready to take your AI game to the next level! Don't miss out on this premium",
-  "price": 9.99
-}
+[
+  {
+    "name": "General Writing",
+    "prompts": [
+      "Write a persuasive sales letter",
+      "Summarize a long article in just 150 words",
+      "Generate creative product descriptions for a store",
+      "Create engaging social media captions"
+    ]
+  },
+  {
+    "name": "Business & Finance",
+    "prompts": [
+      "Draft an investment proposal",
+      "Write a professional email to clients",
+      "Craft a company-wide memo",
+      "Prepare an executive summary of your business plan"
+    ]
+  },
+  {
+    "name": "Education & Research",
+    "prompts": [
+      "Summarize a scholarly research paper",
+      "Create an engaging lesson plan",
+      "Write a comprehensive report on the topic",
+      "Develop multiple-choice questions for a quiz"
+    ]
+  },
+  {
+    "name": "Entertainment & Creativity",
+    "prompts": [
+      "Generate an attention-grabbing headline",
+      "Craft creative character descriptions",
+      "Write captivating story beginnings",
+      "Create engaging dialogue between characters"
+    ]
+  },
+  {
+    "name": "Productivity & Time Management",
+    "prompts": [
+      "Create a daily to-do list with priority tasks",
+      "Design an efficient work schedule",
+      "Set personal and professional goals for the year",
+      "Brainstorm ideas for solving common problems at work"
+    ]
+  },
+  {
+    "name": "Personal Development & Relationships",
+    "prompts": [
+      "Write a heartfelt letter to a loved one",
+      "Craft a persuasive argument in a debate",
+      "Develop self-reflection questions for personal growth",
+      "Create engaging blog posts on interpersonal skills"
+    ]
+  }
+]
